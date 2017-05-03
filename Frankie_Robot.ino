@@ -9,7 +9,7 @@ Adafruit_DCMotor *LMotor = AFMS.getMotor(1);
 Adafruit_DCMotor *RMotor = AFMS.getMotor(2);
 
 // Global variables to use
-const int Sideping = 9;
+const int Sideping = 8;
 const int Frontping = 7;
 int Side;
 int Front;
